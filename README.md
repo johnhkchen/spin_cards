@@ -1,0 +1,1 @@
+This is a simple model of a WIP card game for playtesting purposes
